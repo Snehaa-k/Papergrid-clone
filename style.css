@@ -1,0 +1,314 @@
+html{
+    scroll-behavior: smooth;
+}
+ body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      
+.firstpag{
+    width:100%;
+    height: 5vh;
+   background-color: black;
+    left: 0;
+    right:0;
+    top:0; 
+    
+}
+.firstpag:hover{
+    color: rgb(47, 47, 44);
+    cursor: pointer;
+}
+
+.firstpag a{
+    margin-left: 560px;
+   padding-top: 166px;
+    text-decoration: none;
+    color:rgb(225, 219, 219);
+    
+    
+}
+.asecondpag{
+    width:100%;
+    height: 15vh;
+   background-color:black;
+    left: 0;
+    right:0;
+    top:0; 
+    border-style: outset;
+    position: sticky;
+}
+
+
+
+.imgp img{
+    margin-left: 63px;
+    margin-top: 32px;
+    
+}
+
+.links nav{
+    margin-top: -26px;
+    margin-left: 242px;
+    word-spacing: 34px;
+
+    
+}
+.hai{
+    word-spacing: normal;
+}
+.flink a{
+    text-decoration: none;
+    color: white;
+}
+.flink a:hover{
+    text-decoration: underline;
+    
+}
+
+
+.thrdpag{
+    width:50%;
+    height: 200vh;
+   background-color:white;
+    left: 0;
+    right:0;
+    top:0; 
+    
+
+}
+
+.imgb img{
+    margin-top: 23px;
+    margin-left: 134px;
+    width: 80%;
+    height: 2%;
+}
+.book1 img{
+    margin-top: -7px;
+    margin-left: 126px;
+    width: 35%;
+    height: 2%;
+}
+.book2 img{
+    margin-top: -299px;
+    margin-left: 445px;
+    width: 35%;
+    height: 2%;
+}
+.book3 img{
+    margin-top: 39px;
+    margin-left: 68px;
+    width: 35%;
+    height: 2%;
+}
+.book4 img{
+    margin-top: -374px;
+    margin-left: 451px;
+    width: 35%;
+    height: 2%;
+}
+.book5 img{
+    margin-top: 5px;
+    margin-left: 68px;
+    width: 35%;
+    height: 2%;
+}
+.book6 img{
+    margin-top: -329px;
+    margin-left: 450px;
+    width: 35%;
+    height: 2%;
+}
+
+.textp h6{
+    margin-top: -2406px;
+    margin-left: 971px;
+}
+.main{
+    width:100%;
+    height: 200vh;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.sub1{
+    width:50%;
+    height: 200vh;
+   background-color:white;
+   right:0;
+   
+    
+}
+.textsub p{
+   text-align: center;
+    
+}
+.textrans{
+    color: #918787;
+}
+.Tax{
+    color:#918787;
+}
+.sizeb{
+    padding: 8px 40px;
+}
+.pagesb{
+    padding: 8px 37px;
+}
+.ruledb{
+    padding: 8px 62px;
+}
+.quantity button
+{
+    background-color: aliceblue;
+    padding: 13px 46px;
+    border-color: #161616;
+}
+.addtocart button{
+   background-color: white;
+   padding:9px 85px ;
+   
+   margin-top: 6px;
+}
+.buyb button{
+    background-color: black;
+    color: white;
+   padding:9px 85px ;
+   
+   margin-top: -10px;
+}
+.list{
+    color:rgb(128 121 121);
+    font-size: 23px;
+}
+.linkshr a{
+   
+    margin-left: 59px;
+}
+.last{
+    width:100%;
+    height: 60vh;
+   background-color:white;
+    left: 0;
+    right:0;
+    top:0; 
+
+}
+.last h2{
+    color: #161616;
+    margin-top: -35px;
+    margin-left: 162px;
+}
+.hoverimg img{
+    margin-top: 16px;
+    margin-left: 254px;
+    width: 15%;
+    
+}
+.hoverimg1 img{
+    margin-top: -223px;
+    margin-left: 512px;
+    width: 15%;
+    
+}
+.hoverimg1 img{
+    margin-top: -223px;
+    margin-left: 512px;
+    width: 15%;
+    
+}
+.hoverimg2 img{
+    margin-top: -259px;
+    margin-left: 770px;
+    width: 15%;
+   
+}
+.text h6,h3{
+    margin-top: -14px;
+   margin-left: 290px;
+   position: relative;
+}
+.text1 h6,h3{
+    margin-top: -14px;
+    margin-left: 7px;
+    position: relative;
+}
+.textss nav{
+    
+        margin-top: 9px;
+        margin-left: 242px;
+}
+.faq{
+    margin-left: 7px;
+    text-decoration: none;
+    color: #161616;
+}
+.sa{
+    margin-left: 264px;
+    text-decoration: none;
+    color: #161616;
+}
+.ta{
+    margin-left: 160px;
+    text-decoration: none;
+    color: #161616;
+}
+ .footer{
+    width:100%;
+    height: 34vh;
+    display: flex;
+    flex-direction: row;
+    background: #161616;
+    border-style: outset;
+
+
+ }
+.fotext{
+    margin-top: 21px;
+    margin-left: 671px;
+    color: white;
+    cursor: pointer;
+}
+.footer i{
+    margin-left: 58px;
+   
+}
+.footerlast{
+    width:100%;
+    height: 18vh;
+    display: flex;
+    flex-direction: row;
+    background: #161616;
+}
+.footerp h6{
+    color: white;
+    margin-top: 77px;
+   margin-left: 168px;
+}
+.contact{
+    margin-left: 10px;
+}
+.number{
+    margin-left: -7px;
+}
+.number1{
+    margin-left: -7px;
+}
+.mail{
+    margin-left: -61px;
+}
+.iconuser i{
+     margin-left: 1299px;
+}
+.fa-shopping-bag{
+   justify-content: end;
+    font-size: 24px;
+}
+.cartbag{
+    margin-left: 43px;
+    margin-top: -27px;
+
+}
